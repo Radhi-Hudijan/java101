@@ -16,8 +16,15 @@ public class Main {
 
         int x ,y,z;
         x=y=z=10;
+        // System.out.println(x);
+        // System.out.println(y);
+        // System.out.println(z);
+
+        int a = 10;
+        int b = 20;
+         b += a ;
+        System.out.println(a);
         System.out.println(x);
-        System.out.println(y);
-        System.out.println(z);
+        System.out.println(b);
     }
 }
