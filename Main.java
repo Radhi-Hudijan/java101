@@ -8,6 +8,7 @@ public class Main {
         int age = 30;
         float height = 5.8f;
         boolean isAdult = true;
+        System.out.println(name.length());
         
         String fullName= name + " " + lastName;
 
