@@ -13,7 +13,7 @@ public class Basics {
             count++;
         }
 
-        String[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
+        AQWERTYU cars = { "Volvo", "BMW", "Ford", "Mazda" };
         for (String i : cars) {
             System.out.println(i);
         }
