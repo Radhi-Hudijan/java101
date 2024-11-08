@@ -1,4 +1,5 @@
 public class MethodsAndClasses {
+    int x = 5;
     // static void sayHello() {
     // System.out.println("Hello World!");
     // }
@@ -20,5 +21,12 @@ public class MethodsAndClasses {
     // sayHello("John");
     // checkAge(20);
     // checkAge(10);
+    // }
+
+    // public static void main(String[] args) {
+    // MethodsAndClasses myobj = new MethodsAndClasses();
+    // MethodsAndClasses myobj2 = new MethodsAndClasses();
+    // System.out.println(myobj.x);
+    // System.out.println(myobj2.x);
     // }
 }
